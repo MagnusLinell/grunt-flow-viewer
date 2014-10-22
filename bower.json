@@ -1,0 +1,24 @@
+{
+  "name": "flow-viewer",
+  "version": "0.0.0",
+  "authors": [
+    "Magnus Linell"
+  ],
+  "description": "View flow from vsdx files in HTML5",
+  "main": "js/main.js",
+  "keywords": [
+    "vsdx",
+    "flow",
+    "HTML5",
+    "chart",
+    "visio"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
